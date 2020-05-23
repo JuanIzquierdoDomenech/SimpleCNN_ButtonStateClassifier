@@ -37,3 +37,5 @@ This project shows an example of how to use a Keras model to implement classific
 The classification predicts the state of the button
 *e.g.*
 ![Reference](REFERENCIA.png)
+
+![Folder structure](FOLDER_STRUCTURE.png)
